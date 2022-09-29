@@ -1,0 +1,15 @@
+{
+  "name": "cinehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cinehouse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cinehouse.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
